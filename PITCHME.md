@@ -37,7 +37,7 @@
   * Java -> Kotlin
   * Kotlin -> Java
 
----?image=assets/img/intellij.jpeg&size=contain
+---
 
 * Mindre kode for å oppnå samme funksjonalitet
   * *Rough estimates indicate approximately a 40% cut in the number of lines of code* (JetBrains)
@@ -45,6 +45,8 @@
 ---
 
 * God verktøystøtte
+
+![IntelliJ](assets/img/intellij.jpeg)
 
 ---?image=assets/img/kotlin-usage.png&size=cover
 
