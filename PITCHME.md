@@ -46,7 +46,7 @@
 
 * God verktøystøtte
 
-![IntelliJ](assets/img/intellij.png)
+![IntelliJ](assets/img/intellij.jpeg)
 
 ---
 
