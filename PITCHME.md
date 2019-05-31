@@ -13,7 +13,7 @@
   * Pragmatisk
   * Verktøy støtte
 * Spring support
-* Ressurser
+* Kotlin bøker
 
 ----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&loop=true&muted=true
 
