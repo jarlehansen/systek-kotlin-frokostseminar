@@ -13,6 +13,7 @@
   * Pragmatisk
   * Verktøy støtte
 * Spring support
+* Ressurser
 
 ----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&loop=true&muted=true
 
@@ -52,4 +53,18 @@
 
 ---
 
+<iframe class="stretch" data-src="https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-kotlin.html"></iframe>
 
+---
+@snap[span-100]
+### Kotlin resources
+@snapend
+
+![Kotlin in action](assets/img/kotlin-in-action.jpg))
+
+---
+@snap[span-100]
+### Kotlin resources
+@snapend
+
+![Programming Kotlin](assets/img/programming-kotlin.jpg)
