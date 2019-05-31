@@ -48,8 +48,6 @@
 
 ![IntelliJ](assets/img/intellij.jpeg)
 
----?image=assets/img/kotlin-usage.png&size=cover
-
 ---
 
 *Kotlin is in itself a polyglot language.
