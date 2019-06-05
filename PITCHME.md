@@ -62,6 +62,9 @@ The creators of Kotlin took the good parts from various languages and combined t
 
 ---
 
+* introducing a dedicated Kotlin support in Spring Framework 5.0
+* With Spring Framework 5, we integrate the most useful and popular extensions in Spring Framework dependencies
+
 <iframe class="stretch" data-src="https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-kotlin.html"></iframe>
 
 ---
