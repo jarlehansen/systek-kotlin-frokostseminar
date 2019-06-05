@@ -21,11 +21,6 @@ It brings together the powerful capabilities from many different languages.
 The creators of Kotlin took the good parts from various languages and combined them into one highly approachable and pragmatic language.*
 - Venkat Subramaniam
 
----
-
-* Mindre kode for å oppnå samme funksjonalitet
-  * *Rough estimates indicate approximately a 40% cut in the number of lines of code* (JetBrains)
-
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
@@ -60,6 +55,11 @@ The creators of Kotlin took the good parts from various languages and combined t
 * *Dedicated Kotlin support in Spring Framework 5.0*
 
 <iframe class="stretch" data-src="https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-kotlin.html"></iframe>
+
+---
+
+* Mindre kode for å oppnå samme funksjonalitet
+  * *Rough estimates indicate approximately a 40% cut in the number of lines of code* (JetBrains)
 
 ---?image=assets/img/most-loved.png&size=contain
 @snap[south text-black span-100]
