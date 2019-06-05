@@ -33,6 +33,11 @@
 ### Hvorfor Kotlin?
 @snapend
 
+* Google valgte Kotlin som et offisielt språk for Android
+* Tilgang til hele Java økosystemet
+* Ikke big-bang, kan implementeres litt etter litt
+* Verktøystøtte
+
 * Interoperabilitet med  Java
   * Java -> Kotlin
   * Kotlin -> Java
