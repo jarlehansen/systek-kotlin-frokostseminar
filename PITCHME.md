@@ -16,6 +16,10 @@
 
 ----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&loop=true&muted=true
 
+---?image=assets/img/kotlin-github.jpg&size=contain
+---?image=assets/img/kotlin-digi.jpg&size=contain
+---?image=assets/img/hvorfor-kotlin.jpg&size=contain
+
 ---
 @snap[span-100]
 ### Hvorfor Kotlin?
@@ -25,22 +29,6 @@
 * Tilgang til hele Java økosystemet
 * Ikke big-bang, kan implementeres litt etter litt
 * Verktøystøtte
-
----
-@snap[span-100]
-### Hvorfor Kotlin?
-@snapend
-
----?image=assets/img/kotlin-github.jpg&size=contain
----?image=assets/img/kotlin-digi.jpg&size=contain
----?image=assets/img/hvorfor-kotlin.jpg&size=contain
-
----?image=assets/img/most-loved.png&size=contain
-@snap[south text-black span-100]
-**Stack overflow survey 2019**
-@snapend
-
----?image=assets/img/most-dreaded.png&size=contain
 
 ---
 @snap[span-100]
@@ -74,6 +62,13 @@ The creators of Kotlin took the good parts from various languages and combined t
 * *Dedicated Kotlin support in Spring Framework 5.0*
 
 <iframe class="stretch" data-src="https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-kotlin.html"></iframe>
+
+---?image=assets/img/most-loved.png&size=contain
+@snap[south text-black span-100]
+**Stack overflow survey 2019**
+@snapend
+
+---?image=assets/img/most-dreaded.png&size=contain
 
 ---
 @snap[span-100]
