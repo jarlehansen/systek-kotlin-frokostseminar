@@ -9,7 +9,6 @@
 * Hvorfor Kotlin?
 * Designfilosofi
   * Interop med Java
-  * Pragmatisk
   * Verktøy støtte
 * Spring support
 * Kotlin bøker
