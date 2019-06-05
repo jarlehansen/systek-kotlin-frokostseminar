@@ -7,13 +7,24 @@
 
 * Historien til Kotlin
 * Hvorfor Kotlin?
-* Designfilosofi
-  * Interop med Java
-  * Verktøy støtte
+* Interop med Java
+* Verktøy støtte
 * Spring support
 * Kotlin bøker
 
 ----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&loop=true&muted=true
+
+---
+
+*Kotlin is in itself a polyglot language.
+It brings together the powerful capabilities from many different languages.
+The creators of Kotlin took the good parts from various languages and combined them into one highly approachable and pragmatic language.*
+- Venkat Subramaniam
+
+---
+
+* Mindre kode for å oppnå samme funksjonalitet
+  * *Rough estimates indicate approximately a 40% cut in the number of lines of code* (JetBrains)
 
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
@@ -40,21 +51,9 @@
 
 ---
 
-* Mindre kode for å oppnå samme funksjonalitet
-  * *Rough estimates indicate approximately a 40% cut in the number of lines of code* (JetBrains)
-
----
-
 * God verktøystøtte
 
 ![IntelliJ](assets/img/intellij.png)
-
----
-
-*Kotlin is in itself a polyglot language.
-It brings together the powerful capabilities from many different languages.
-The creators of Kotlin took the good parts from various languages and combined them into one highly approachable and pragmatic language.*
-- Venkat Subramaniam
 
 ---
 
