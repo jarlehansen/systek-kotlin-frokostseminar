@@ -17,6 +17,17 @@
 
 ----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&loop=true&muted=true
 
+---
+@snap[span-100]
+### Hvorfor Kotlin?
+@snapend
+
+* Google valgte Kotlin som et offisielt språk for Android
+* Tilgang til hele Java økosystemet
+* Ikke big-bang, kan implementeres litt etter litt
+* Verktøystøtte
+
+
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
@@ -27,16 +38,6 @@
 @snapend
 
 ---?image=assets/img/most-dreaded.png&size=contain
-
----
-@snap[span-100]
-### Hvorfor Kotlin?
-@snapend
-
-* Google valgte Kotlin som et offisielt språk for Android
-* Tilgang til hele Java økosystemet
-* Ikke big-bang, kan implementeres litt etter litt
-* Verktøystøtte
 
 ---
 @snap[span-100]
