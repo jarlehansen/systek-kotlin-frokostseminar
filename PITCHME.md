@@ -7,7 +7,6 @@
 
 * Historien til Kotlin
 * Hvorfor Kotlin?
-* Kotlin i nyhetene
 * Designfilosofi
   * Interop med Java
   * Pragmatisk
@@ -22,11 +21,15 @@
 ### Hvorfor Kotlin?
 @snapend
 
-* Google valgte Kotlin som et offisielt språk for Android
+* Kotlin er offisielt språk for Android
 * Tilgang til hele Java økosystemet
 * Ikke big-bang, kan implementeres litt etter litt
 * Verktøystøtte
 
+---
+@snap[span-100]
+### Hvorfor Kotlin?
+@snapend
 
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
