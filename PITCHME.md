@@ -24,6 +24,7 @@ The creators of Kotlin took the good parts from various languages and combined t
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
+---?image=assets/img/kotlin-trend.png&size=contain
 
 ---
 @snap[span-100]
